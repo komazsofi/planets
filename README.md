@@ -1,4 +1,4 @@
-# planets
+# Planets
 Exploring the universe
 
 ## Building rocket
